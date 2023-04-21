@@ -1,0 +1,3 @@
+[submodule ".scripts_references"]
+	path = .scripts_references
+	url = git@github.com:arthur-yatsun/.scripts_references.git
