@@ -7,3 +7,6 @@
 [submodule "flask_app_reference"]
 	path = flask_app_reference
 	url = git@github.com:arthur-yatsun/flask_app_reference.git
+[submodule "apache_beam_snippets"]
+	path = apache_beam_snippets
+	url = git@github.com:arthur-yatsun/apache_beam_snippets.git
