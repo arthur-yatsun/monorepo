@@ -4,3 +4,6 @@
 [submodule "python-patterns"]
 	path = python-patterns
 	url = git@github.com:arthur-yatsun/python-patterns.git
+[submodule "flask_app_reference"]
+	path = flask_app_reference
+	url = git@github.com:arthur-yatsun/flask_app_reference.git
